@@ -4,7 +4,7 @@
 
 - [Linguagens](#linguagens-utilizadas)
 
-
+ [Acesse o Site ](https://martinszx.github.io/Calculadora-IMC/)
 
 ## Visão Geral
 
